@@ -1,0 +1,7 @@
+numpy == 1.24.3
+pandas == 1.5.3
+scikit-learn 
+datetime 
+streamlit 
+pickle 
+pip == 23.2.1
