@@ -5,3 +5,5 @@ datetime
 streamlit
 xgboost
 pip == 23.2.1
+folium 
+folium_static 
